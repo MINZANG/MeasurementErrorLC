@@ -6,7 +6,11 @@ This repository contains a Manim project demonstrating the **LC error from a poi
 
 ### GIF Example
 
+- ❌ <span style="color:red">Incorrect measurement</span>
 ![LC Error Animation](output/videos/run/480p15/MeasurementErrorLC_ManimCE_v0.19.0.gif)
+
+- ✅ <span style="color:green">Correct measurement</span>
+![LC Error Animation](output/videos/run2/480p15/MeasurementErrorLC_ManimCE_v0.19.0.gif)
 
 ## Installation
 
