@@ -6,7 +6,7 @@ This repository contains a Manim project demonstrating the **LC error from a poi
 
 ### GIF Example
 
-![LC Error Animation](output/videos/run/480p15/PointToLineLCError_ManimCE_v0.19.0.gif)
+![LC Error Animation](output/videos/run/480p15/MeasurementErrorLC_ManimCE_v0.19.0.gif)
 
 ## Installation
 
